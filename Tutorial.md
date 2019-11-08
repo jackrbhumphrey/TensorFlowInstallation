@@ -49,3 +49,9 @@ Installing TensorFlow:
 	pip install keras
 	
 	//////////////////////////////////////////////////////
+	
+	Using this youtube video, you can access a functioning Jupyter notebook and test out TensorFlow with a sample dataset.
+	
+	https://www.youtube.com/watch?v=1ZyococPDYU
+	
+
