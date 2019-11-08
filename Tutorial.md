@@ -13,13 +13,13 @@ Installing TensorFlow:
 
 	//////////////////////////////////////////////////////
 	
-	conda create -n MNISTworkshop python=3.7
+	conda create -n WORKSHOP python=3.7
 	
-	conda activate MNISTworkshop
+	conda activate WORKSHOP
 	
 	pip install ipykernel
 	
-	python -m ipykernel install --user --name MNISTworkshop --display-name "MNISTworkshop"
+	python -m ipykernel install --user --name WORKSHOP --display-name "WORKSHOP"
 	
 	conda install tensorflow
 	
@@ -34,13 +34,13 @@ Installing TensorFlow:
          
 	//////////////////////////////////////////////////////
 
-	conda create -n MNISTworkshop python=3.7
+	conda create -n WORKSHOP python=3.7
 	
-	conda activate MNISTworkshop
+	conda activate WORKSHOP
 	
 	pip install ipykernel
 	
-	python -m ipykernel install --user --name MNISTworkshop --display-name "MNISTworkshop"
+	python -m ipykernel install --user --name WORKSHOP --display-name "WORKSHOP"
 	
 	conda install tensorflow-gpu
 	
