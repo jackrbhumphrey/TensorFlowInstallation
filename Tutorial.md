@@ -1,11 +1,8 @@
 # TensorFlowInstallationWindows10
 
 
-Install Anaconda
+Install Anaconda.  As of 11/8/19, I would recommend the Python3.7 version.
 https://www.anaconda.com/distribution/#download-section
-
-Install the latest version of Python supposed by Tensorflow (Currently, this is Python 3.7)
-https://www.python.org/downloads/
 
 Open the "Anaconda Prompt(Anaconda3)" executable
 
@@ -35,3 +32,4 @@ Installing TensorFlow:
 	conda install jupyter
 	pip install keras
 
+Using this video, you can see how to implement 
