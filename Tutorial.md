@@ -49,5 +49,3 @@ Installing TensorFlow:
 	pip install keras
 	
 	//////////////////////////////////////////////////////
-
-Using this video, you can see how to implement 
