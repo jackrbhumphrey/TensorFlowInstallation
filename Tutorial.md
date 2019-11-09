@@ -58,7 +58,8 @@ Installing TensorFlow:
 	
 	////////////////////////////
 	
-	Using this youtube video, you can access a functioning Jupyter notebook and test out TensorFlow with a sample dataset.
+	Using this youtube video, you can access a functioning Jupyter notebook and test out TensorFlow with a
+	sample dataset provided in the youtube comments
 	
 	https://www.youtube.com/watch?v=1ZyococPDYU
 	
