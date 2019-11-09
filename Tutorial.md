@@ -50,6 +50,14 @@ Installing TensorFlow:
 	
 	//////////////////////////////////////////////////////
 	
+	You can now access the Jupyter notebook with this command
+	
+	//////////////////////////////////////////////////////
+	
+	jupyter notebook
+	
+	//////////////////////////////////////////////////////
+	
 	Using this youtube video, you can access a functioning Jupyter notebook and test out TensorFlow with a sample dataset.
 	
 	https://www.youtube.com/watch?v=1ZyococPDYU
